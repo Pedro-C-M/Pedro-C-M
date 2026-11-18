@@ -10,8 +10,8 @@
 ```
 
 <div align="center">
-  <h1>👾 PLAYER 1 READY👾</h1>
-  <h3><i>"Loading..."</i></h3>
+  <h3><i>"git commit -m 'fix'"</i></h3>
+  <h3><i>"git commit -m 'fix de verdad'"</i></h3>
 </div>
 
 ## 👤 HOJA DEL PERSONAJE
