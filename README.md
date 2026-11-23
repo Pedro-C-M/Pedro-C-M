@@ -14,7 +14,7 @@
   <h3><i>"git commit -m 'fix de verdad'"</i></h3>
 </div>
 
-## 👤 HOJA DEL PERSONAJE
+## HOJA DEL PERSONAJE
 
 | **Atributo** | **Valor** |
 | :--- | :--- |
@@ -23,7 +23,7 @@
 | 🏰 **Gremio Actual** | Investigador Universitario |
 | ⚔️ **Estado** | En búsqueda de aventuras - Disponible Ene. 2027 |
 
-## 🎒 INVENTARIO 
+## INVENTARIO 
 ### Lenguajes
 <p align="left">
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
@@ -61,7 +61,6 @@
 </p>
 
 ## 📂 Proyectos Destacados 
-TO-DO
 
 https://github.com/Pedro-C-M/XCVTransformer 
 <br>
@@ -69,6 +68,8 @@ https://github.com/Pedro-C-M/FireDrone-2526
 <br>
 https://github.com/Pedro-C-M/MeetI-ill
 <br>
+
+TO-DO Mejorar apartado visualmente
 
 ## 🌐 Conecta conmigo
 
